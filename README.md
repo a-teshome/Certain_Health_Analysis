@@ -14,4 +14,5 @@ The leaderdership team requested a dasboard to support quarterly business review
 - **Campaign effectiveness**: Compare marketing spend, signups, and subsequent claim behavior across campaign categories.
 - **Trend analysis**: Visualize signups and claim amounts over time, with filters for campaign category, plan type, state, and campaign topic.
 - **Category comparison**: Support side-by-side comparison of performance across campaign types.
+
 The dashboard is intended to enable the marketing team to independently access, explore, and interpret campaign data in support of ongoing reporting and strategic planning. 
