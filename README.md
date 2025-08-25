@@ -49,5 +49,18 @@ Campaign performance was evaluated on the following key metrics:
 - *Health For All* was the most cost-effective category (CPA $0.57, 3.5K signups), driven primarily by its *Health Awareness* campaign type ($0.36 CPA, 3.3K signups).
 - *Golden Years Security* was the least efficient campaign, with the highest CPA of $124 (>50x the average) and only 23 signups.
 - *Social Media* was the most cost-effective platform with $3.36 CPA and 9.5K signups, driven by #CoverageMatters ($0.82) and Health For All ($0.88) categories.
-- Significantly high CPA (>$1.2K) observed for some Covid Awareness campaign types. 
+- Significantly high CPA (>$1.2K) observed for some _Covid Awareness_ campaign types. 
 
+## Recommendations
+- **Prioritize High-Performing Campaigns:** Scale up _Health Awareness_ campaign type within _Health for All_ category which delivered the highest CTR (49%), strong CTSR (7.6%), low CPA ($0.36) and high signup volume ($3.3K).
+- **Reallocate Budget from Low-Efficiency campaigns** like _Golden Years Security_, which had (across categories) the lowest CTR (1.7%) and the highest CPA ($124) across categories with minimal signups (23) and _Benefit Updates_, which had the lowest CTSR (0.08%) and second highest CPA ($48) across categories.
+- **Optimize platform spend:** Increase spend on _Social Media_ platform, which had best cost-efficiency with low CPA ($3.36) and the highest CTSR across all platforms (1.29%) and limit spend on _Email_, which had the lowest CTSR (0.01%), highest CPA ($255), and the lowest signup volume (37) across platforms.
+- **Consider retiring high-cost campaign types** like _Covid Awareness_ campaign types within _Compare Health Coverage_ and _#CoverageMatters_ categories, which had significantly high CPA ($1.4K and $1.3K respectively), with low CTSR (0.01% and 0% respectively), and low signup volume (1).
+
+## Dashboard
+The Tableau Campaign Performance Dashboard is located here.
+> Add some information on how to use the dashboard here - refer to class notes for what to include.
+
+## Presentation Sample
+A presentation was created for the marketing team to summarize insights and recommendations from 2019-2023 campaign performance to inform 2024 budget allocation. It is located here. Below are a few relevant slides from the presentation.
+> Add slide on signup rate, key recommendations slide, and technical process slide.
