@@ -58,8 +58,7 @@ Campaign performance was evaluated on the following key metrics:
 - **Consider retiring high-cost campaign types** like _Covid Awareness_ campaign types within _Compare Health Coverage_ and _#CoverageMatters_ categories, which had significantly high CPA ($1.4K and $1.3K respectively), with low CTSR (0.01% and 0% respectively), and low signup volume (1).
 
 ## Dashboard
-The Tableau Campaign Performance Dashboard is located here.
-> Add some information on how to use the dashboard here - refer to class notes for what to include.
+The dashboard is hosted on Tableau Public [here](<https://public.tableau.com/app/profile/a.t2948/viz/CertainHealthCampaignDashboard/Dashboard>) and supports filtering by plan, campaign type, and state. It highlights key trends and values in marketing, signup, and claim metrics.
 
 ## Presentation Sample
 A presentation was created for the marketing team to summarize insights and recommendations from 2019-2023 campaign performance to inform 2024 budget allocation. It is located here. Below are a few relevant slides from the presentation.
