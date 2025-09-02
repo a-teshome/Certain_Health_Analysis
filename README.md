@@ -55,7 +55,7 @@ Campaign performance was evaluated on the following key metrics:
 - **Prioritize High-Performing Campaigns:** Scale up _Health Awareness_ campaign type within _Health for All_ category which delivered the highest CTR (49%), strong CTSR (7.6%), low CPA ($0.36) and high signup volume ($3.3K).
 - **Reallocate Budget from Low-Efficiency campaigns** like _Golden Years Security_, which had (across categories) the lowest CTR (1.7%) and the highest CPA ($124) across categories with minimal signups (23) and _Benefit Updates_, which had the lowest CTSR (0.08%) and second highest CPA ($48) across categories.
 - **Optimize platform spend:** Increase spend on _Social Media_ platform, which had best cost-efficiency with low CPA ($3.36) and the highest CTSR across all platforms (1.29%) and limit spend on _Email_, which had the lowest CTSR (0.01%), highest CPA ($255), and the lowest signup volume (37) across platforms.
-- **Consider retiring high-cost campaign types** like _Covid Awareness_ campaign types within _Compare Health Coverage_ and _#CoverageMatters_ categories, which had significantly high CPA ($1.4K and $1.3K respectively), with low CTSR (0.01% and 0% respectively), and low signup volume (1).
+- **Consider retiring high-cost campaign types** like _Covid Awareness_ within _Compare Health Coverage_ and _#CoverageMatters_ categories, which had significantly high CPA ($1.4K and $1.3K respectively), with low CTSR (0.01% and 0% respectively), and low signup volume (1).
 
 ## Dashboard
 The dashboard is hosted on Tableau Public [here](<https://public.tableau.com/app/profile/a.t2948/viz/CertainHealthCampaignDashboard/Dashboard>) and supports filtering by plan, campaign type, and state. It highlights key trends and values in marketing, signup, and claim metrics.
