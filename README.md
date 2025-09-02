@@ -61,5 +61,13 @@ Campaign performance was evaluated on the following key metrics:
 The dashboard is hosted on Tableau Public [here](<https://public.tableau.com/app/profile/a.t2948/viz/CertainHealthCampaignDashboard/Dashboard>) and supports filtering by plan, campaign type, and state. It highlights key trends and values in marketing, signup, and claim metrics.
 
 ## Presentation Sample
-A presentation was created for the marketing team to summarize insights and recommendations from 2019-2023 campaign performance to inform 2024 budget allocation. It is located here. Below are a few relevant slides from the presentation.
-> Add slide on signup rate, key recommendations slide, and technical process slide.
+A presentation was created for the marketing team to summarize insights and recommendations from 2019-2023 campaign performance to inform 2024 budget allocation. Below are a few relevant slides from the presentation.
+
+<img width="917" height="517" alt="image" src="https://github.com/user-attachments/assets/e86d82bf-37ca-4ed3-9358-a702692b1981" />
+
+<img width="917" height="520" alt="image" src="https://github.com/user-attachments/assets/3b3ec9b1-671a-4dfc-8c7b-c68c5c2447ef" />
+
+<img width="916" height="517" alt="image" src="https://github.com/user-attachments/assets/4a28281d-47fa-4565-a705-70b5a6ffa872" />
+
+
+
